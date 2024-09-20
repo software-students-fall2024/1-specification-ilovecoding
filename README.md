@@ -29,6 +29,16 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 5. As an NYU CS student, I want to specify my preferred work direction (e.g., front-end, back-end) so that the app can suggest relevant electives that align with my career goals.
 
+6. As an NYU CS student, I want to decide whether or not I’ll take courses during the summer or winter semesters so that I can create a personalized plan that fits my schedule.
+
+7. As an NYU CS student, I want to view detailed information about each course (e.g., workload, technologies taught) so that I can make informed decisions about which courses to take.
+
+8. As an NYU CS student, I want to see which professors are teaching the courses next semester so that I can choose sections based on professor reviews and teaching styles.
+
+9. As an NYU CS student, I want to be able to view links to professor reviews (e.g., on RateMyProfessors) so that I can better understand what to expect in each course.
+
+10. As an NYU CS student, I want the app to notify me if it’s impossible to complete my courses before my intended graduation date so that I can adjust my plan and timeline accordingly.
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
