@@ -19,7 +19,15 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a new NYU CS student, I want to input my completed CS courses so that I can track what courses I still need to take.
+
+2. As a returning user, I want to be prompted to add any newly finished courses when I sign in so that my course tracking is always up to date.
+
+3. As an NYU CS student, I want to see a list of all remaining required courses and electives so that I can plan my path to graduation.
+
+4. As an NYU CS student, I want to select my graduation semester so that I can see a realistic long-term plan of courses I need to take each semester.
+
+5. As an NYU CS student, I want to specify my preferred work direction (e.g., front-end, back-end) so that the app can suggest relevant electives that align with my career goals.
 
 ## Activity Diagrams
 
