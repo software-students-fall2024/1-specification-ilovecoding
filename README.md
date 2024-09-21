@@ -15,7 +15,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Empower NYU Computer Science students to efficiently plan their academic journey by tracking completed courses and generating personalized long-term course plans based on their individual goals and preferences. 
 
 ## User Requirements
 
