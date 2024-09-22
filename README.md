@@ -6,13 +6,26 @@ A little exercise to get started with the specification phase of the software de
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
-Sewon Kim [Profile](https://github.com/SewonKim0)
-Wilson Xu [Profile](https://github.com/wilsonxu101)   
-Rhan Chen[Profile](https://github.com/xc528)
+1. Sewon Kim [Profile](https://github.com/SewonKim0)
+2. Wilson Xu [Profile](https://github.com/wilsonxu101)   
+3. Rhan Chen [Profile](https://github.com/xc528)
+4. Hanna Han [Profile](https://github.com/HannaHan2)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+name: Grace
+
+Goals/needs:
+1. The stakeholder desires a single app to track all completed CS courses and provide guidance on future course selections, eliminating the need to navigate multiple platforms like Rate My Professor, NYU Albert, and other NYU resources.
+2. They seek a long-term academic plan that aligns with specific career goals, whether it’s pursuing graduate studies in research or becoming a front-end, back-end, full-stack, or data engineer.
+3. They are interested in developing specific programming skills or learning particular technologies through their course selections in upcoming semesters.
+4. For transfer students, LSP students, or those switching/doubling majors into CS, there is a need for a clear path to ensure timely graduation, especially when starting the CS major in the sophomore or junior year.
+
+Problems/frustrations:
+1. Finding all available CS courses through the NYU Albert course search requires excessive scrolling, making it difficult and time-consuming to browse options.
+2. Using NYU Albert to search, add, and enroll in courses is cumbersome, as it necessitates repeatedly returning to the course search page to check details like course times, sections, professors, and availability.
+3. Obtaining comprehensive course information—such as prerequisites, technologies covered, or professor ratings—requires jumping between multiple websites or seeking input from other students, which is inefficient.
+4. It is difficult to determine whether a particular course is suitable for a chosen career path without extensive independent research, leading to uncertainty in course selection.
 
 ## Product Vision Statement
 
@@ -32,11 +45,11 @@ Empower NYU Computer Science students to efficiently plan their academic journey
 
 6. As an NYU CS student, I want to decide whether or not I’ll take courses during the summer or winter semesters so that I can create a personalized plan that fits my schedule.
 
-7. As an NYU CS student, I want to view detailed information about each course (e.g., workload, technologies taught) so that I can make informed decisions about which courses to take.
+7. As an NYU CS student, I want to view detailed information about course content (e.g., the programming languages, frameworks, specific tools, methodologies) so that I can make informed decisions about which courses to take.
 
-8. As an NYU CS student, I want to see which professors are teaching the courses next semester so that I can choose sections based on professor reviews and teaching styles.
+8. As an NYU CS student, I want to view the different sections and their times for each course I plan to take so that I can choose sections accordingly.
 
-9. As an NYU CS student, I want to be able to view links to professor reviews (e.g., on RateMyProfessors) so that I can better understand what to expect in each course.
+9. As an NYU CS student, I want to be able to view links to professor reviews (e.g., on RateMyProfessors) so that I can choose sections based on professor's teaching styles and what to expect.
 
 10. As an NYU CS student, I want the app to notify me if it’s impossible to complete my courses before my intended graduation date so that I can adjust my plan and timeline accordingly.
 
