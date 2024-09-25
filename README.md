@@ -57,4 +57,4 @@ Empower NYU Computer Science students to efficiently plan their academic journey
 
 ## Clickable Prototype
 
-Prototype: [Link](https://www.figma.com/design/pPISEv1UfLzC79YfENWABU/SWE---HW1?node-id=62-107&t=ZuTgvsMg88fzl9Md-1)
+Prototype: [Link](https://www.figma.com/proto/lZFU1uDdDBhY7w2b5Z1A9R/SWE---HW1-(Copy)?node-id=0-1&t=Uq9tzHYsZNDuCj8Y-1)
