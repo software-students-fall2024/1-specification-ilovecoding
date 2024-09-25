@@ -11,7 +11,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-name: Grace
+Name: Grace Li - CS Major Student at NYU
 
 Goals/needs:
 1. The stakeholder desires a single app to track all completed CS courses and provide guidance on future course selections, eliminating the need to navigate multiple platforms like Rate My Professor, NYU Albert, and other NYU resources.
