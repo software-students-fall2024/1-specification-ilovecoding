@@ -4,10 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-1. Sewon Kim [Profile](https://github.com/SewonKim0)
-2. Wilson Xu [Profile](https://github.com/wilsonxu101)   
-3. Rhan Chen [Profile](https://github.com/xc528)
-4. Hanna Han [Profile](https://github.com/HannaHan2)
+* Sewon Kim [Profile](https://github.com/SewonKim0)
+* Wilson Xu [Profile](https://github.com/wilsonxu101)   
+* Rhan Chen [Profile](https://github.com/xc528)
+* Hanna Han [Profile](https://github.com/HannaHan2)
 
 ## Stakeholders
 
