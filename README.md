@@ -51,7 +51,7 @@ Empower NYU Computer Science students to efficiently plan their academic journey
 
 10. As an NYU CS student, I want the app to notify me if it’s impossible to complete my courses before my intended graduation date so that I can adjust my plan and timeline accordingly.
 
-11. As an NYU CS student, I want to have some personalized plans of my remaining CS courses based on my preference so that I have have a reference when I actually choose the course.
+11. As an NYU CS student, I want to have some personalized plans of my remaining CS courses based on my preference so that I have a reference when I actually choose the course.
 
 ## Activity Diagrams
 
