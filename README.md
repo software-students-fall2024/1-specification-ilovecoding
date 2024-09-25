@@ -45,7 +45,7 @@ Empower NYU Computer Science students to efficiently plan their academic journey
 
 7. As an NYU CS student, I want to view detailed information about course content (e.g., the programming languages, frameworks, specific tools, methodologies) so that I can make informed decisions about which courses to take.
 
-8. As an NYU CS student, I want to view the different sections and their times for each course I plan to take so that I can choose sections accordingly.
+8. As an NYU CS student, I want to view the different sections and other specific information (e.g., professor, time, location) for each course I plan to take so that I can choose sections accordingly.
 
 9. As an NYU CS student, I want to be able to view links to professor reviews (e.g., on RateMyProfessors) so that I can choose sections based on professor's teaching styles and what to expect.
 
