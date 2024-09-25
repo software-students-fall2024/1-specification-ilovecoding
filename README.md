@@ -53,7 +53,7 @@ Empower NYU Computer Science students to efficiently plan their academic journey
 
 ## Activity Diagrams
 
-
+![img](<Copy of UMLActivityDiagram.jpg>)
 
 ## Clickable Prototype
 
